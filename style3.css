@@ -22,6 +22,8 @@ section {
   margin: 0 auto;
   height: 89px;
   font-family: "Inter", sans-serif;
+  position:fixed;
+  top:0;
 }
 .nav-container-inner-wrapper {
   max-width: 1440px;
