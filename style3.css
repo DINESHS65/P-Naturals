@@ -22,18 +22,19 @@ section {
   margin: 0 auto;
   height: 89px;
   font-family: "Inter", sans-serif;
-  position:sticky;
-  top:0;
-  z-index:100000;
+  
 }
 .nav-container-inner-wrapper {
-  max-width: 1440px;
+  max-width: 1140px;
   margin: 0 auto;
   height: inherit;
   display: flex;
   line-height: 89px;
   overflow: hidden;
   background-color: rgb(255, 255, 255);
+  position:sticky;
+  top:0;
+  z-index:100000;
 }
 .naturals-logo {
   width: 29%;
