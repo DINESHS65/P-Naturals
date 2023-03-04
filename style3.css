@@ -22,7 +22,7 @@ section {
   margin: 0 auto;
   height: 89px;
   font-family: "Inter", sans-serif;
-  position:fixed;
+  position:sticky;
   top:0;
 }
 .nav-container-inner-wrapper {
